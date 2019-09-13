@@ -10,7 +10,8 @@ namespace helloworldSelahatinYesiloezIAF71
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
